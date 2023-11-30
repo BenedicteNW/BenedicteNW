@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BenedicteNW
+- I’m @BenedicteNW
 - I'm a historical linguist at the University of Copenhagen
 <!---
 BenedicteNW/BenedicteNW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
